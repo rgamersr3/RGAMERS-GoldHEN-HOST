@@ -1,0 +1,2 @@
+# RGAMERS-GoldHEN-HOST
+Auto GoldHEN Host
